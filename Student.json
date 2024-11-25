@@ -1,0 +1,204 @@
+{
+    "students": [
+        {
+            "fullname": "Sam Smith",
+            "idnumber": "343435-465-7687",
+            "formgrade": 12,
+            "class": "S1",
+            "skyeaddress": "SMI12-687@skye.edu.za",
+            "academic": [
+                {
+                    "subject": "Mathematical Literacy",
+                    "grade": 50.0
+                },
+                {
+                    "subject": "Mathematics",
+                    "grade": 79.0
+                },
+                {
+                    "subject": "Mathematical Literacy",
+                    "grade": 65.0
+                },
+                {
+                    "subject": "Mathematics",
+                    "grade": 60.0
+                }
+            ]
+        },
+        {
+            "fullname": "Johnny Wraves",
+            "idnumber": "034093-250-8945",
+            "formgrade": 11,
+            "class": "S2",
+            "skyeaddress": "WRA11-945@skye.edu.za",
+            "academic": [
+                {
+                    "subject": "Mathematical Literacy",
+                    "grade": 76.0
+                },
+                {
+                    "subject": "Mathematics",
+                    "grade": 68.0
+                },
+                {
+                    "subject": "Mathematics",
+                    "grade": 87.0
+                },
+                {
+                    "subject": "Mathematics",
+                    "grade": 92.0
+                }
+            ]
+        },
+        {
+            "fullname": "Solomon Wilims",
+            "idnumber": "876435-748-2340",
+            "formgrade": 11,
+            "class": "S2",
+            "skyeaddress": "WIL11-340@skye.edu.za",
+            "academic": [
+                {
+                    "subject": "Mathematics",
+                    "grade": 86.0
+                },
+                {
+                    "subject": "Mathematical Literacy",
+                    "grade": 65.0
+                },
+                {
+                    "subject": "Mathematical Literacy",
+                    "grade": 76.0
+                },
+                {
+                    "subject": "Mathematics",
+                    "grade": 56.0
+                }
+            ]
+        },
+        {
+            "fullname": "James Octave",
+            "idnumber": "456879-865-4321",
+            "formgrade": 10,
+            "class": "S3",
+            "skyeaddress": "OCT10-321@skye.edu.za",
+            "academic": [
+                {
+                    "subject": "Advanced Placement Mathematics",
+                    "grade": 86.0
+                },
+                {
+                    "subject": "Mathematical Literacy",
+                    "grade": 65.0
+                },
+                {
+                    "subject": "Mathematical Literacy",
+                    "grade": 76.0
+                },
+                {
+                    "subject": "Mathematics",
+                    "grade": 56.0
+                }
+            ]
+        },
+        {
+            "fullname": "Victor Javes",
+            "idnumber": "061205-382-9141",
+            "formgrade": 11,
+            "class": "S2",
+            "skyeaddress": "JAV11-141@skye.edu.za",
+            "academic": [
+                {
+                    "subject": "Mathematical Literacy",
+                    "grade": 78.0
+                },
+                {
+                    "subject": "Chemistry",
+                    "grade": 67.0
+                },
+                {
+                    "subject": "Civics & Citizenship",
+                    "grade": 69.0
+                },
+                {
+                    "subject": "International Relations",
+                    "grade": 62.0
+                }
+            ]
+        },
+        {
+            "fullname": "Sandile Mkhize",
+            "idnumber": "080923-587-2983",
+            "formgrade": 11,
+            "class": "S2",
+            "skyeaddress": "MKH11-983@skye.edu.za",
+            "academic": [
+                {
+                    "subject": "Mathematics",
+                    "grade": 67.0
+                },
+                {
+                    "subject": "Physics",
+                    "grade": 68.0
+                },
+                {
+                    "subject": "Environmental Science",
+                    "grade": 84.0
+                },
+                {
+                    "subject": "Law",
+                    "grade": 90.0
+                }
+            ]
+        },
+        {
+            "fullname": "Olatunji Olamide",
+            "idnumber": "091208-683-7928",
+            "formgrade": 11,
+            "class": "S2",
+            "skyeaddress": "OLA11-928@skye.edu.za",
+            "academic": [
+                {
+                    "subject": "Mathematics",
+                    "grade": 76.0
+                },
+                {
+                    "subject": "Physics",
+                    "grade": 56.0
+                },
+                {
+                    "subject": "Sociology",
+                    "grade": 63.0
+                },
+                {
+                    "subject": "Business Management",
+                    "grade": 81.0
+                }
+            ]
+        },
+        {
+            "fullname": "James Octavia",
+            "idnumber": "090212-359-3485",
+            "formgrade": 11,
+            "class": "S2",
+            "skyeaddress": "OCT11-485@skye.edu.za",
+            "academic": [
+                {
+                    "subject": "Mathematical Literacy",
+                    "grade": 87.0
+                },
+                {
+                    "subject": "Chemistry",
+                    "grade": 58.0
+                },
+                {
+                    "subject": "Psychology",
+                    "grade": 70.0
+                },
+                {
+                    "subject": "Architectural Design",
+                    "grade": 50.0
+                }
+            ]
+        }
+    ]
+}
